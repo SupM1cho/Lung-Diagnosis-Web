@@ -1,0 +1,45 @@
+File,Gejala,Penyakit,Skor (%)
+1.png,"Batuk, Demam",Cardiomegaly,38.46
+1.png,"Batuk, Demam",Infiltration,39.46
+1.png,"Batuk, Demam",Effusion,32.95
+1.png,"Batuk, Demam",Fibrosis,27.47
+1.png,"Batuk, Demam",Consolidation,16.78
+1.png,"Batuk, Demam",Emphysema,38.22
+1.png,"Batuk, Demam",Atelectasis,14.06
+1.png,"Batuk, Demam",Bronchitis,21.24
+1.png,"Batuk, Demam",Mass,32.54
+1.png,"Batuk, Demam",Pneumothorax,14.13
+1.png,"Batuk, Demam",Bronkiektasis,7.22
+2.png,"Sesak_napas, Nyeri_dada",Cardiomegaly,41.71
+2.png,"Sesak_napas, Nyeri_dada",Infiltration,41.57
+2.png,"Sesak_napas, Nyeri_dada",Effusion,39.77
+2.png,"Sesak_napas, Nyeri_dada",Fibrosis,28.68
+2.png,"Sesak_napas, Nyeri_dada",Consolidation,30.31
+2.png,"Sesak_napas, Nyeri_dada",Emphysema,23.44
+2.png,"Sesak_napas, Nyeri_dada",Atelectasis,13.04
+2.png,"Sesak_napas, Nyeri_dada",Bronchitis,13.55
+2.png,"Sesak_napas, Nyeri_dada",Mass,32.34
+2.png,"Sesak_napas, Nyeri_dada",Pneumothorax,8.11
+2.png,"Sesak_napas, Nyeri_dada",Bronkiektasis,5.26
+3.png,-,Cardiomegaly,45.81
+3.png,-,Infiltration,49.1
+3.png,-,Effusion,41.96
+3.png,-,Fibrosis,21.91
+3.png,-,Consolidation,31.96
+3.png,-,Emphysema,33.18
+3.png,-,Atelectasis,16.72
+3.png,-,Bronchitis,17.14
+3.png,-,Mass,42.33
+3.png,-,Pneumothorax,20.43
+3.png,-,Bronkiektasis,20.29
+4.png,"Batuk_darah, Edema",Cardiomegaly,37.44
+4.png,"Batuk_darah, Edema",Infiltration,40.73
+4.png,"Batuk_darah, Edema",Effusion,45.1
+4.png,"Batuk_darah, Edema",Fibrosis,24.11
+4.png,"Batuk_darah, Edema",Consolidation,24.56
+4.png,"Batuk_darah, Edema",Emphysema,28.28
+4.png,"Batuk_darah, Edema",Atelectasis,16.07
+4.png,"Batuk_darah, Edema",Bronchitis,18.79
+4.png,"Batuk_darah, Edema",Mass,27.67
+4.png,"Batuk_darah, Edema",Pneumothorax,11.99
+4.png,"Batuk_darah, Edema",Bronkiektasis,9.66
