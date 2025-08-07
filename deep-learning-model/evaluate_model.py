@@ -45,6 +45,8 @@ test_cases = {
 # === Evaluasi dan Simpan CSV ===
 results = []
 
+print("📁 Isi folder test_images:", os.listdir("test_images"))
+
 for filename, symptoms in test_cases.items():
     path = os.path.join(TEST_DIR, filename)
     if not os.path.exists(path):
